@@ -1,0 +1,12 @@
+.inputsection {
+    background-color: #f4f4f4;
+    border: none;
+    font-size: 1rem;
+    padding: 1rem 4rem 1rem 1rem;
+    border-bottom: 1px solid black;
+    font-family: IBM Plex Sans;
+  }
+  .inputsection:focus {
+    border-radius: 0px;
+    border: 1px solid #0f62fe;
+  }

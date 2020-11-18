@@ -1,0 +1,32 @@
+.tertiary-button {
+    font-size: 1rem;
+    border: 1px solid #0f62fe;
+    color: #0f62fe;
+    padding: 1rem 4rem 1rem 1rem;
+    width: 10%;
+    font-family: IBM Plex Sans;
+}
+
+.tertiary-button:hover {
+    background-color: #0f62fe;
+    color: white;
+    cursor: pointer;
+}
+
+.primary-button {
+    font-size: 1rem;
+    border: 1px solid #0f62fe;
+    background-color: #0f62fe;
+    color: white;
+    padding: 1rem 4rem 1rem 1rem;
+    width: 10%;
+    font-family: IBM Plex Sans;
+    opacity: 0.8;
+}
+
+.primary-button:hover {
+    /* background-color: #0f62fe; */
+    /* color: white; */
+    opacity: 1;
+    cursor: pointer;
+}
